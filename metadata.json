@@ -1,0 +1,6 @@
+{
+  "name": "Trade Money Maker",
+  "description": "Painel web SaaS profissional de automação e gestão de risco para MetaTrader 5 com arquitetura Control Plane e Execution Plane isolado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
